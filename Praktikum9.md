@@ -4,7 +4,7 @@ Autor: Walther Kraam
 
 |Küsimus|Vastus|
 |---|---|
-|1. Võrrelge Administrator ja SYSTEM privileege ning kirjutage vähemalt üks tegevus mille jaoks on vaja SYSTEM õigusi.||
+|1. Võrrelge Administrator ja SYSTEM privileege ning kirjutage vähemalt üks tegevus mille jaoks on vaja SYSTEM õigusi.|SeShutdownPrivilege Administratoris on see DISABLED, SYSTEM privileegidega ENABLED|
 |2. Ekraanivaade turvalise kausta seadetest (ainult üks kasutaja saab teha kõike ja Ülemus ainult lugeda)||
 |3. Kirjuta praktikumi aruandesse vähemalt 3 soovitust (muudatust), mida Microsoft soovitab Windowsi turve seadete juures parandada, suurendamaks Windows operatsioonisüsteemi turvalisust.||
 |4. Sobiv kasutajakonto kontrolli seadistus koos põhjendusega (Süsteem ja turve)||
