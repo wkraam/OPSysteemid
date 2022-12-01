@@ -18,7 +18,7 @@ Parktimuitööd 1-3 on wikina esitatud ja neid siin kättesaadavaks ei tee. Jär
 # Praktikum 11
 [11. praktikumi link](https://github.com/wkraam/OPSysteemid/blob/98c57163ba4960a459af7c55f3413154e28e4cb4/Praktikum11.md)
 # Praktikum 12
-[12. praktikumi link 'inoperable'](#)
+[12. praktikumi link](https://github.com/wkraam/OPSysteemid/blob/56e0019800c92f1ea80056529a8cbc9cef4e6e1e/Praktikum12.md)
 # Praktikum 13
 [13. praktikumi link 'inoperable'](#)
 # Praktikum 14
