@@ -10,7 +10,6 @@ Autor: Walther Kraam
 |4. Mis on "Sharing our app" sammu mõte? Mida see samm demonstreerib??|sama mõte, mis on ka git'i kasutamisel, ehk on versioonikontroll.|
 |5. Tehke screenshot käsu 'docker volume inspect todo-db' väljundist.|![4 1](https://user-images.githubusercontent.com/75208899/206020494-682d704e-ca00-4ad3-9c55-fb9ff96e9cad.png)|
 |6. Tehke selgeks, millist Dockeri konteksti te parasjagu kasutate?|<ul><li>NAME: default<li>TYPE:  moby<li>DESCRIPTION: Current DOCKER_HOST based configuration<li>DOCKER ENDPOINT: unix:///var/run/docker.sock<li>ORCHESTRATOR: swarm</ul>|
-|7. Edasi tuleb teil Azure portalis üles leida tekkinud Dockeri konteiner ja sellest Screenshot teha nagu praegune näide näitab|![7 1](https://user-images.githubusercontent.com/75208899/206244725-3054a6f8-bb6b-4bbb-9c00-7cc31ce932f7.png)
-|
+|7. Edasi tuleb teil Azure portalis üles leida tekkinud Dockeri konteiner ja sellest Screenshot teha nagu praegune näide näitab|![7 1](https://user-images.githubusercontent.com/75208899/206244725-3054a6f8-bb6b-4bbb-9c00-7cc31ce932f7.png)|
 
-Täiendatud: 6/12/2022
+Täiendatud: 7/12/2022
